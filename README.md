@@ -1,8 +1,9 @@
 # Satistizer
+
 A **Satis**factory Op**ti**mi**zer** written in Elixir.
 I am learning Elixir at the same time as writing this program, so it may be a while! And most definitely will not be the best written code ever
 
-## Features:
+## Features
 
 - To start: Provide input resources and output desired.
   - Algorithm will calculate intermediary steps
@@ -14,4 +15,3 @@ I am learning Elixir at the same time as writing this program, so it may be a wh
       - This will then have to be broken down into steps with overclocking/under clocking percentages.
 - Add support for calculating intermediary steps
 - Eventually increase complexity to allow for more input and more outputs
-- 
